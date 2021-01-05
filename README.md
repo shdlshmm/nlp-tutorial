@@ -7,6 +7,6 @@ git clone https://github.com/shdlshmm/nlp-tutorial.git
 
 git add xxxx
 
-git commit -m '×¢ÊÍ'
+git commit -m 'test'
 
 git push
